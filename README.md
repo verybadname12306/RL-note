@@ -9,3 +9,5 @@ https://www.bilibili.com/video/BV1sd4y167NS?spm_id_from=333.788.player.switch&vd
 1. 【Github】：https://github.com/MathFoundationRL/Book-Mathmatical-Foundation-of-Reinforcement-Learning
 2. 【百度网盘】：https://pan.baidu.com/s/1kNxM8sl8FUWV6SiiGIep3Q?pwd=ghx8
 3. 【Onedrive】：https://westlakeu-my.sharepoint.com/:f:/g/personal/lyujialing_westlake_edu_cn/EgN1-0jOU61BnaTkG7zJ9nsBUdjKEi6hNrdT5n8mp-qn3g?e=3MbtmD
+
+这Github的库管理好难用,以后随缘搞点东西，当个云仓库算了。服
